@@ -1,0 +1,26 @@
+.main-container {
+  max-width: 1200px;
+  background-color: #b0e0e6;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+}
+.main-header h4 {
+  color: #f98173;
+}
+.main-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-photo {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 2rem;
+}
+.card-img img{
+height: 350px;
+width: 300px;
+}
